@@ -1,0 +1,19 @@
+{
+  "": {
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/CorePersistence.build/master.swiftdeps"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/Sources/Core/CorePersistence/AudioSegment.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/CorePersistence.build/AudioSegment.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/CorePersistence.build/AudioSegment.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/CorePersistence.build/AudioSegment~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/CorePersistence.build/AudioSegment.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/CorePersistence.build/AudioSegment.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/Sources/Core/CorePersistence/PersistenceManager.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/CorePersistence.build/PersistenceManager.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/CorePersistence.build/PersistenceManager.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/CorePersistence.build/PersistenceManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/CorePersistence.build/PersistenceManager.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/CorePersistence.build/PersistenceManager.dia"
+  }
+}

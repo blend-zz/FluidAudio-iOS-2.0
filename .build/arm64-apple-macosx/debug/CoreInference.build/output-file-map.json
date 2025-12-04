@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/CoreInference.build/master.swiftdeps"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/Sources/Core/CoreInference/FluidTTSActor.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/CoreInference.build/FluidTTSActor.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/CoreInference.build/FluidTTSActor.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/CoreInference.build/FluidTTSActor~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/CoreInference.build/FluidTTSActor.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/CoreInference.build/FluidTTSActor.dia"
+  }
+}

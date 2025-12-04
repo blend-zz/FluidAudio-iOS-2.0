@@ -1,0 +1,44 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "kind" : {
+          "xcframework" : {
+
+          }
+        },
+        "packageRef" : {
+          "identity" : "fluidaudio-ios-2.0",
+          "kind" : "fileSystem",
+          "location" : "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0",
+          "name" : "FluidAudio"
+        },
+        "path" : "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Frameworks/ESpeakNG.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "ESpeakNG"
+      }
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "fluidaudio-ios-2.0",
+          "kind" : "fileSystem",
+          "location" : "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0",
+          "name" : "FluidAudio"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0"
+        },
+        "subpath" : "fluidaudio-ios-2.0"
+      }
+    ],
+    "prebuilts" : [
+
+    ]
+  },
+  "version" : 7
+}

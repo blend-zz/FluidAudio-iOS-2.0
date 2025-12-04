@@ -1,0 +1,26 @@
+{
+  "": {
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/App.build/master.swiftdeps"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/Sources/App/App.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/App.build/App.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/App.build/App.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/App.build/App~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/App.build/App.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/App.build/App.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/Sources/App/AppView.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/App.build/AppView.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/App.build/AppView.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/App.build/AppView~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/App.build/AppView.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/App.build/AppView.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/Sources/App/DependencyContainer.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/App.build/DependencyContainer.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/App.build/DependencyContainer.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/App.build/DependencyContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/App.build/DependencyContainer.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/App.build/DependencyContainer.dia"
+  }
+}

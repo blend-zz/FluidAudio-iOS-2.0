@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/UIComponents.build/master.swiftdeps"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/Sources/UI/UIComponents/UIComponents.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/UIComponents.build/UIComponents.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/UIComponents.build/UIComponents.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/UIComponents.build/UIComponents~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/UIComponents.build/UIComponents.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/UIComponents.build/UIComponents.dia"
+  }
+}

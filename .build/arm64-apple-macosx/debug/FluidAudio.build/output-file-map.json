@@ -1,0 +1,418 @@
+{
+  "": {
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/master.swiftdeps"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/ASR/ANEOptimizer.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ANEOptimizer.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ANEOptimizer.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ANEOptimizer~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ANEOptimizer.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ANEOptimizer.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/ASR/AsrManager.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AsrManager.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AsrManager.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AsrManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AsrManager.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AsrManager.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/ASR/AsrModels.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AsrModels.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AsrModels.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AsrModels~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AsrModels.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AsrModels.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/ASR/AsrTranscription.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AsrTranscription.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AsrTranscription.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AsrTranscription~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AsrTranscription.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AsrTranscription.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/ASR/AsrTypes.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AsrTypes.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AsrTypes.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AsrTypes~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AsrTypes.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AsrTypes.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/ASR/AudioBuffer.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AudioBuffer.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AudioBuffer.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AudioBuffer~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AudioBuffer.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AudioBuffer.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/ASR/ChunkProcessor.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ChunkProcessor.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ChunkProcessor.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ChunkProcessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ChunkProcessor.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ChunkProcessor.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/ASR/MLArrayCache.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/MLArrayCache.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/MLArrayCache.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/MLArrayCache~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/MLArrayCache.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/MLArrayCache.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/ASR/PerformanceMetrics.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/PerformanceMetrics.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/PerformanceMetrics.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/PerformanceMetrics~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/PerformanceMetrics.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/PerformanceMetrics.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/ASR/Streaming/StreamingAsrManager.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/StreamingAsrManager.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/StreamingAsrManager.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/StreamingAsrManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/StreamingAsrManager.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/StreamingAsrManager.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/ASR/Streaming/StreamingAsrSession.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/StreamingAsrSession.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/StreamingAsrSession.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/StreamingAsrSession~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/StreamingAsrSession.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/StreamingAsrSession.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/ASR/TDT/BlasIndex.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/BlasIndex.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/BlasIndex.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/BlasIndex~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/BlasIndex.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/BlasIndex.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/ASR/TDT/EncoderFrameView.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/EncoderFrameView.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/EncoderFrameView.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/EncoderFrameView~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/EncoderFrameView.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/EncoderFrameView.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/ASR/TDT/TdtConfig.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/TdtConfig.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/TdtConfig.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/TdtConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/TdtConfig.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/TdtConfig.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/ASR/TDT/TdtDecoderState.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/TdtDecoderState.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/TdtDecoderState.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/TdtDecoderState~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/TdtDecoderState.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/TdtDecoderState.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/ASR/TDT/TdtDecoderV2.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/TdtDecoderV2.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/TdtDecoderV2.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/TdtDecoderV2~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/TdtDecoderV2.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/TdtDecoderV2.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/ASR/TDT/TdtDecoderV3.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/TdtDecoderV3.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/TdtDecoderV3.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/TdtDecoderV3~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/TdtDecoderV3.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/TdtDecoderV3.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/ASR/TDT/TdtHypothesis.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/TdtHypothesis.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/TdtHypothesis.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/TdtHypothesis~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/TdtHypothesis.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/TdtHypothesis.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Diarizer/Clustering/SpeakerManager.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SpeakerManager.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SpeakerManager.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SpeakerManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SpeakerManager.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SpeakerManager.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Diarizer/Clustering/SpeakerOperations.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SpeakerOperations.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SpeakerOperations.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SpeakerOperations~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SpeakerOperations.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SpeakerOperations.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Diarizer/Clustering/SpeakerTypes.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SpeakerTypes.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SpeakerTypes.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SpeakerTypes~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SpeakerTypes.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SpeakerTypes.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Diarizer/Core/DiarizerManager.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/DiarizerManager.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/DiarizerManager.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/DiarizerManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/DiarizerManager.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/DiarizerManager.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Diarizer/Core/DiarizerModels.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/DiarizerModels.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/DiarizerModels.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/DiarizerModels~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/DiarizerModels.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/DiarizerModels.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Diarizer/Core/DiarizerTypes.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/DiarizerTypes.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/DiarizerTypes.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/DiarizerTypes~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/DiarizerTypes.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/DiarizerTypes.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Diarizer/Extraction/EmbeddingExtractor.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/EmbeddingExtractor.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/EmbeddingExtractor.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/EmbeddingExtractor~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/EmbeddingExtractor.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/EmbeddingExtractor.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Diarizer/Offline/Clustering/AHCClustering.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AHCClustering.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AHCClustering.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AHCClustering~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AHCClustering.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AHCClustering.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Diarizer/Offline/Clustering/VBxClustering.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VBxClustering.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VBxClustering.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VBxClustering~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VBxClustering.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VBxClustering.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Diarizer/Offline/Core/OfflineDiarizerManager.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineDiarizerManager.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineDiarizerManager.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineDiarizerManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineDiarizerManager.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineDiarizerManager.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Diarizer/Offline/Core/OfflineDiarizerModels.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineDiarizerModels.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineDiarizerModels.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineDiarizerModels~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineDiarizerModels.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineDiarizerModels.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Diarizer/Offline/Core/OfflineDiarizerTypes.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineDiarizerTypes.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineDiarizerTypes.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineDiarizerTypes~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineDiarizerTypes.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineDiarizerTypes.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Diarizer/Offline/Extraction/OfflineEmbeddingExtractor.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineEmbeddingExtractor.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineEmbeddingExtractor.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineEmbeddingExtractor~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineEmbeddingExtractor.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineEmbeddingExtractor.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Diarizer/Offline/Extraction/PLDATransform.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/PLDATransform.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/PLDATransform.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/PLDATransform~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/PLDATransform.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/PLDATransform.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Diarizer/Offline/Extraction/WeightInterpolation.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/WeightInterpolation.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/WeightInterpolation.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/WeightInterpolation~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/WeightInterpolation.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/WeightInterpolation.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Diarizer/Offline/Segmentation/OfflineSegmentationProcessor.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineSegmentationProcessor.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineSegmentationProcessor.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineSegmentationProcessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineSegmentationProcessor.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineSegmentationProcessor.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Diarizer/Offline/Utils/OfflineReconstruction.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineReconstruction.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineReconstruction.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineReconstruction~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineReconstruction.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/OfflineReconstruction.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Diarizer/Offline/Utils/VDSPOperations.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VDSPOperations.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VDSPOperations.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VDSPOperations~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VDSPOperations.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VDSPOperations.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Diarizer/Segmentation/AudioValidation.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AudioValidation.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AudioValidation.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AudioValidation~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AudioValidation.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AudioValidation.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Diarizer/Segmentation/SegmentationProcessor.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SegmentationProcessor.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SegmentationProcessor.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SegmentationProcessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SegmentationProcessor.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SegmentationProcessor.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Diarizer/Segmentation/SlidingWindow.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SlidingWindow.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SlidingWindow.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SlidingWindow~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SlidingWindow.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SlidingWindow.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/DownloadUtils.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/DownloadUtils.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/DownloadUtils.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/DownloadUtils~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/DownloadUtils.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/DownloadUtils.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/FluidAudioSwift.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/FluidAudioSwift.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/FluidAudioSwift.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/FluidAudioSwift~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/FluidAudioSwift.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/FluidAudioSwift.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/ModelNames.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ModelNames.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ModelNames.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ModelNames~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ModelNames.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ModelNames.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/ModelRegistry.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ModelRegistry.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ModelRegistry.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ModelRegistry~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ModelRegistry.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ModelRegistry.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Shared/ANEMemoryOptimizer.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ANEMemoryOptimizer.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ANEMemoryOptimizer.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ANEMemoryOptimizer~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ANEMemoryOptimizer.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ANEMemoryOptimizer.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Shared/ANEMemoryUtils.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ANEMemoryUtils.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ANEMemoryUtils.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ANEMemoryUtils~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ANEMemoryUtils.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ANEMemoryUtils.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Shared/ASRConstants.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ASRConstants.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ASRConstants.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ASRConstants~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ASRConstants.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ASRConstants.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Shared/AppLogger.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AppLogger.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AppLogger.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AppLogger~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AppLogger.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AppLogger.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Shared/AssetDownloader.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AssetDownloader.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AssetDownloader.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AssetDownloader~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AssetDownloader.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AssetDownloader.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Shared/AudioConverter.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AudioConverter.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AudioConverter.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AudioConverter~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AudioConverter.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AudioConverter.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Shared/AudioStream.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AudioStream.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AudioStream.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AudioStream~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AudioStream.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/AudioStream.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Shared/MLModel+Prediction.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/MLModel+Prediction.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/MLModel+Prediction.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/MLModel+Prediction~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/MLModel+Prediction.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/MLModel+Prediction.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Shared/ModelWarmup.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ModelWarmup.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ModelWarmup.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ModelWarmup~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ModelWarmup.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/ModelWarmup.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Shared/StreamingAudioSampleSource.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/StreamingAudioSampleSource.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/StreamingAudioSampleSource.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/StreamingAudioSampleSource~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/StreamingAudioSampleSource.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/StreamingAudioSampleSource.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Shared/StreamingAudioSourceFactory.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/StreamingAudioSourceFactory.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/StreamingAudioSourceFactory.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/StreamingAudioSourceFactory~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/StreamingAudioSourceFactory.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/StreamingAudioSourceFactory.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/Shared/SystemInfo.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SystemInfo.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SystemInfo.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SystemInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SystemInfo.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/SystemInfo.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/VAD/VadManager+SpeechSegmentation.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VadManager+SpeechSegmentation.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VadManager+SpeechSegmentation.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VadManager+SpeechSegmentation~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VadManager+SpeechSegmentation.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VadManager+SpeechSegmentation.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/VAD/VadManager+Streaming.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VadManager+Streaming.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VadManager+Streaming.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VadManager+Streaming~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VadManager+Streaming.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VadManager+Streaming.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/VAD/VadManager.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VadManager.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VadManager.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VadManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VadManager.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VadManager.dia"
+  },
+  "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/FluidAudio-iOS-2.0/Sources/FluidAudio/VAD/VadTypes.swift": {
+    "dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VadTypes.d",
+    "object": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VadTypes.swift.o",
+    "swiftmodule": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VadTypes~partial.swiftmodule",
+    "swift-dependencies": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VadTypes.swiftdeps",
+    "diagnostics": "/Users/calebcadis/Coding Projects/Screen Reader/VoiceReader2/.build/arm64-apple-macosx/debug/FluidAudio.build/VadTypes.dia"
+  }
+}

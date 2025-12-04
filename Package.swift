@@ -16,6 +16,10 @@ let package = Package(
             name: "FluidAudioTTS",
             targets: ["FluidAudioTTS"]
         ),
+        .library(
+            name: "FastClusterWrapper",
+            targets: ["FastClusterWrapper"]
+        ),
         // CLI removed - macOS only
     ],
     dependencies: [],
